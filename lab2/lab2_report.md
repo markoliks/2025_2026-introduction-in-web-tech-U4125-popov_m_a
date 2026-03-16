@@ -7,7 +7,7 @@ Year: 2025/2026
 Author: Popov Mark  
 Lab: Lab2  
 Date of create: 17.03.2026  
-Date of finished: 17.03.2026  
+Date of finished: -  
 
 ## Цель работы
 
